@@ -154,4 +154,4 @@ def make_change(amount_paid, item_cost):
         coins = coins - ((coins / 1) * 1)
 
 
-make_change(100.00, 14.59)
+make_change(100.00, 23.79)
